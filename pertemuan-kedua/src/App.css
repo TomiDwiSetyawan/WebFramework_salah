@@ -66,6 +66,7 @@ body {
 }
 
 .resume {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
   width: 800px;
   height: auto;
   display: flex;
